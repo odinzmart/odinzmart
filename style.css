@@ -38,7 +38,7 @@ span{color:white;}
 }
 .umb img{
 width:24%;
-margin-bottom:-2.8em;
+margin-bottom:-0.05em;
 }
 .jacke{
 text-align:center;
@@ -139,4 +139,5 @@ height:50%;
 background-color:#242124;
 font-family:Georgia;
 text-align:center;
+
 }
